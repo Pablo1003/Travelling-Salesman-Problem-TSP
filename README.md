@@ -1,1 +1,3 @@
-# Travelling-Salesman-Problem-TSP-
+# Travelling-Salesman-Problem-TSP
+
+Solving TSP problem with genetic algortihms
